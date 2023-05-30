@@ -24,7 +24,11 @@ Le code principal est organisé de la manière suivante :
 
 ## Comment exécuter le code
 
-1. Assurez-vous d'avoir les dépendances suivantes installées : `streamlit`, `folium`, `streamlit_folium`, `gzip`, `json`, `pandas`, `matplotlib`, `numpy`, `plotly.express`.
+1. Assurez-vous d'avoir les dépendances suivantes installées : 
+
+   ```shell
+   pip install -r requirements.txt
+
 2. Exécutez la commande suivante dans votre terminal pour lancer l'application :
 
    ```shell
