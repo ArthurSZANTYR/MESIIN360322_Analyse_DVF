@@ -4,6 +4,8 @@
 
 Ce code est conçu pour analyser les statistiques immobilières basées sur les données DVF (Demandes de Valeurs Foncières) fournies par l'État français.
 
+![GIF](gif_streamlit.gif)
+
 ## Fonctionnalités
 
 Le code principal offre les fonctionnalités suivantes :
